@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import TutorialDataService from '../services/TutorialService';
+import TutorialDataService from './TutorialService';
 
 const Tutorial = props => {
   const initialTutorialState = {
