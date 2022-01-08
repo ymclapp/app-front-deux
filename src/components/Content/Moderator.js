@@ -1,5 +1,5 @@
 import { Container, CardGroup, Card, Button } from "react-bootstrap";
-import '../components/moderator.css';
+import '../Content/moderator.css';
 
 
 function moderatorContent() {
