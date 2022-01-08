@@ -1,5 +1,5 @@
 import { Container, CardGroup, Card, Button } from "react-bootstrap";
-import '../components/public.css';
+import '../Content/public.css';
 
 
 function publicContent() {

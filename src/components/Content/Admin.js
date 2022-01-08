@@ -1,5 +1,5 @@
 import { Container, CardGroup, Card, Button } from "react-bootstrap";
-import '../components/admin.css';
+import '../Content/admin.css';
 
 
 function adminContent() {
